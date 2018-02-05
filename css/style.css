@@ -443,10 +443,16 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
 #banner .tp-caption a:hover {color: #fff;}
 /* -------------------------- SEO Short Banner --------------------------- */
 .seo-theme .short-banner {
-  padding: 40px 0;
+  padding: 20px 0;
   margin-bottom: 85px;
+  color:#fff;
 }
 .seo-theme .short-banner h4 {
+  color: #fff;
+  margin-top: 10px;
+}
+
+.seo-theme .short-banner h2 {
   color: #fff;
   margin-top: 10px;
 }
@@ -2120,7 +2126,7 @@ footer.seo-footer p {font-size: 15px;}
 .shop-page .bootstrap-select.btn-group .dropdown-menu li.selected a span.text,
 .shop-page .bootstrap-select.btn-group .dropdown-menu li:hover a span.text {color: #fff;}
 .shop-page .dropdown-menu  {
-  border: 1px solid rgba(0,0,0,0.06;)
+  border: 1px solid rgba(0,0,0,0.06);
 }
 .shop-page{margin-bottom: 100px;}
 

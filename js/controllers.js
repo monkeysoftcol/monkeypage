@@ -52,7 +52,7 @@ module.controller('HomeCtrl', ['$scope', '$http', function ($scope, $http) {
         console.log("Controlador home cargado!!!!");
         
         baseController($scope);
-        $scope.msjExito("Bienvenido");
+        //$scope.msjExito("Bienvenido");
        
     }]);
 
